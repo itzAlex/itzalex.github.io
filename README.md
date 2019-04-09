@@ -4,6 +4,6 @@
 
 <h2 style="text-align: center;"><span style="color: #000000;"><strong>              Repositorio oficial: <a href="https://github.com/itzAlex/itzalex.github.io">Clicka aqu&iacute;</a></strong></span></h2>
 
-<h2 style="text-align: center;"><strong>              Link a la p&aacute;gina: <a href="itzalex.github.io">              Clicka aqu&iacute;</a></strong></h2>
+<h2 style="text-align: center;"><strong>              Link a la p&aacute;gina: <a href="https://itzalex.github.io/" target="_blank">              Clicka aqu&iacute;</a></strong></h2>
 <h2><span style="color: #000000;"><strong>  
 <em>-------------------------------------------------------------------------------------------------------------</em></strong></span></h2>
