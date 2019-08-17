@@ -1,7 +1,11 @@
 @import 'base.css';
 .social-btns .btn,
 .social-btns .btn:before,
-.social-btns .btn .fa {
+.social-btns .btn .fab {
+  transition: all 0.35s;
+  transition-timing-function: cubic-bezier(0.31, -0.105, 0.43, 1.59);
+}
+.social-btns .btn .fas {
   transition: all 0.35s;
   transition-timing-function: cubic-bezier(0.31, -0.105, 0.43, 1.59);
 }
@@ -9,13 +13,16 @@
   top: 90%;
   left: -110%;
 }
-.social-btns .btn .fa {
+.social-btns .btn .fab {
+  transform: scale(0.8);
+}
+.social-btns .btn .fas {
   transform: scale(0.8);
 }
 .social-btns .btn.facebook:before {
   background-color: #3b5998;
 }
-.social-btns .btn.facebook .fa {
+.social-btns .btn.facebook .fab {
   color: #3b5998;
   font-size: 75px;
   position: absolute;
@@ -26,8 +33,19 @@
 .social-btns .btn.twitter:before {
   background-color: #3cf;
 }
-.social-btns .btn.twitter .fa {
+.social-btns .btn.twitter .fab {
   color: #3cf;
+  font-size: 75px;
+  position: absolute;
+  top: 30;
+  left: 0;
+  right: 0;
+}
+.social-btns .btn.discord:before {
+  background-color: #6495ed;
+}
+.social-btns .btn.discord .fab {
+  color: #6495ed;
   font-size: 75px;
   position: absolute;
   top: 30;
@@ -37,7 +55,7 @@
 .social-btns .btn.contact:before {
   background-color: #6e7f80;
 }
-.social-btns .btn.contact .fa {
+.social-btns .btn.contact .fas {
   color: #6e7f80;
   font-size: 70px;
   position: absolute;
@@ -48,7 +66,7 @@
 .social-btns .btn.github:before {
   background-color: #708090;
 }
-.social-btns .btn.github .fa {
+.social-btns .btn.github .fab {
   color: #708090;
   font-size: 90px;
   position: absolute;
@@ -59,18 +77,18 @@
 .social-btns .btn.reddit:before {
   background-color: #ff5349;
 }
-.social-btns .btn.reddit .fa {
+.social-btns .btn.reddit .fab {
   color: #ff5349;
-  font-size: 65px;
+  font-size: 80px;
   position: absolute;
-  top: 35;
+  top: 28;
   left: 0;
   right: 0;
 }
 .social-btns .btn.google:before {
   background-color: #dc4a38;
 }
-.social-btns .btn.google .fa {
+.social-btns .btn.google .fab {
   color: #dc4a38;
   font-size: 75px;
   position: absolute;
@@ -81,7 +99,7 @@
 .social-btns .btn.dribbble:before {
   background-color: #f26798;
 }
-.social-btns .btn.dribbble .fa {
+.social-btns .btn.dribbble .fab {
   color: #f26798;
   font-size: 75px;
   position: absolute;
@@ -92,7 +110,7 @@
 .social-btns .btn.skype:before {
   background-color: #00aff0;
 }
-.social-btns .btn.skype .fa {
+.social-btns .btn.skype .fab {
   color: #00aff0;
   font-size: 75px;
   position: absolute;
@@ -105,8 +123,13 @@
   top: -10%;
   left: -10%;
 }
-.social-btns .btn:focus .fa,
-.social-btns .btn:hover .fa {
+.social-btns .btn:focus .fab,
+.social-btns .btn:hover .fab {
+  color: #fff;
+  transform: scale(1);
+}
+.social-btns .btn:focus .fas,
+.social-btns .btn:hover .fas {
   color: #fff;
   transform: scale(1);
 }
@@ -145,8 +168,13 @@
   position: absolute;
   transform: rotate(45deg);
 }
-.social-btns .btn .fa {
+.social-btns .btn .fab {
   text-align: center;
   
 }
+.social-btns .btn .fas {
+  text-align: center;
+  
+}
+
 

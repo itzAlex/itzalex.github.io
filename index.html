@@ -1,25 +1,38 @@
-<head>	
-<link rel="stylesheet" type="text/css" href="animations.css">
-<link rel="stylesheet" type="text/css" href="buttons.css">
-<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<head>
+
+  <link rel="stylesheet" type="text/css" href="animations.css">
+  <link rel="stylesheet" type="text/css" href="./css/all.css"> <!--load all styles -->
+  <link rel="stylesheet" type="text/css" href="buttons.css">
+
+  <script>
+	var loc = window.location.href+'';
+	if (loc.indexOf('http://')==0){
+    	window.location.href = loc.replace('http://','https://');
+	}
+  </script>
+
 </head>
-<script>
-var loc = window.location.href+'';
-if (loc.indexOf('http://')==0){
-    window.location.href = loc.replace('http://','https://');
-}
-</script>	
-<div class="social-btns">
-	<a class="btn contact" href="mailto:contact@itzalex.me">
-		<i class="fa fa-envelope"></i>
-	</a>
-	<a class="btn github" href="https://github.com/itzAlex">
-		<i class="fa fa-github"></i>
-	</a>
-	<a class="btn twitter" href="https://twitter.com/itzAlexPL_">
-		<i class="fa fa-twitter"></i>
-	</a>
-	<a class="btn reddit" href="https://reddit.com/user/itzAlexPL_">
-		<i class="fa fa-reddit"></i>
-	</a>	
-</div>
+
+<body>
+
+	<div class="social-btns">
+
+		<a class="btn contact" href="mailto:contact@itzalex.me">
+			<i class="fas fa-envelope"></i>
+		</a>
+		<a class="btn github" href="https://github.com/itzAlex">
+			<i class="fab fa-github"></i>
+		</a>
+		<a class="btn discord" href="https://discordapp.com/users/340437875810238465">
+			<i class="fab fa-discord"></i>
+		</a>
+		<a class="btn twitter" href="https://twitter.com/itzAlexPL_">
+			<i class="fab fa-twitter"></i>
+		</a>
+		<a class="btn reddit" href="https://reddit.com/user/itzAlexPL_">
+			<i class="fab fa-reddit"></i>
+		</a>
+  		
+	</div>	
+
+</body>
