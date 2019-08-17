@@ -1,14 +1,14 @@
-<head>
-	
-<!---
-Changed DNS
---->
-	
+<head>	
 <link rel="stylesheet" type="text/css" href="animations.css">
 <link rel="stylesheet" type="text/css" href="buttons.css">
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 </head>
-
+<script>
+var loc = window.location.href+'';
+if (loc.indexOf('http://')==0){
+    window.location.href = loc.replace('http://','https://');
+}
+</script>	
 <div class="social-btns">
 	<a class="btn contact" href="mailto:contact@itzalex.me">
 		<i class="fa fa-envelope"></i>
