@@ -53,6 +53,12 @@
       <a href="https://github.com/itzAlex">GitHub</a> -
       <a href="https://discordapp.com/users/340437875810238465">Discord</a>
     </div>
+    <script> 
+	var loc = window.location.href+'';
+	if (loc.indexOf('http://')==0){
+    	window.location.href = loc.replace('http://','https://');
+	}
+    </script>
     <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
     <script>
       particlesJS("background", {
