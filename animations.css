@@ -65,6 +65,8 @@ body {
 }
 body::before {
   content: "itzAlex";
+  position: relative;
+  bottom: 100;
   font-size: 8rem;
   font-weight: 100;
   font-style: normal;
