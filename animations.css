@@ -44,6 +44,7 @@
 }
 /* Main styles */
 body {
+  overflow: hidden;
   margin-top: 13.5rem;
   color: #5d8aa8;
   font: 400 10.66667px exo, ubuntu, "segoe ui", helvetica, arial, sans-serif;
