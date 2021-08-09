@@ -55,6 +55,24 @@
          "image3":"https://itzalex.github.io/badgesusers/sulexmex/badge3x.png"
       },
       {
+         "tooltip":"oldcoeur Badge",
+         "image1":"https://itzalex.github.io/badgesusers/oldcoeur/badge.png",
+         "users":[
+            "139147886"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/oldcoeur/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/oldcoeur/badge3x.png"
+      },
+      {
+         "tooltip":"JAAREET Badge",
+         "image1":"https://itzalex.github.io/badgesusers/jaareet/badge.gif",
+         "users":[
+            "193590147"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/jaareet/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/jaareet/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
@@ -72,7 +90,6 @@
             "95700563",
             "223854974",
             "232024028",
-            "139147886",
             "601439452",
             "234637869",
             "68125102",
@@ -81,7 +98,6 @@
             "156886053",
             "53835261",
             "162269507",
-            "193590147",
             "491746812"
          ],
          "image2":"https://fourtf.com/chatterino/badges/pepe2x.png",
