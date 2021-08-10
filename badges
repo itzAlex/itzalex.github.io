@@ -100,6 +100,15 @@
          "image3":"https://itzalex.github.io/badgesusers/benjxxm/badge3x.png"
       },
       {
+         "tooltip":"elhuerto27 Badge",
+         "image1":"https://itzalex.github.io/badgesusers/elhuerto27/badge.png",
+         "users":[
+            "513104643"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/elhuerto27/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/elhuerto27/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
@@ -122,8 +131,7 @@
             "156886053",
             "53835261",
             "162269507",
-            "491746812",
-            "513104643"
+            "491746812"
          ],
          "image2":"https://fourtf.com/chatterino/badges/pepe2x.png",
          "image3":"https://fourtf.com/chatterino/badges/pepe3x.png"
