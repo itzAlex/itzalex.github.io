@@ -19,15 +19,6 @@
          "image3":"https://itzalex.github.io/badgesusers/lauramatamala/badge3x.gif"
       },
       {
-         "tooltip":"danizurbano Badge",
-         "image1":"https://itzalex.github.io/badgesusers/danizurbano/badge.png",
-         "users":[
-            "400909668"
-         ],
-         "image2":"https://itzalex.github.io/badgesusers/danizurbano/badge2x.png",
-         "image3":"https://itzalex.github.io/badgesusers/danizurbano/badge3x.png"
-      },
-      {
          "tooltip":"NachoSLV Badge",
          "image1":"https://itzalex.github.io/badgesusers/nachoslv/badge.png",
          "users":[
@@ -73,6 +64,42 @@
          "image3":"https://itzalex.github.io/badgesusers/jaareet/badge3x.gif"
       },
       {
+         "tooltip":"danizurbano Badge",
+         "image1":"https://itzalex.github.io/badgesusers/danizurbano/badge.gif",
+         "users":[
+            "400909668"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/danizurbano/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/danizurbano/badge3x.gif"
+      },
+      {
+         "tooltip":"UsersVesper Badge",
+         "image1":"https://itzalex.github.io/badgesusers/usersvesper/badge.png",
+         "users":[
+            "95700563"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/usersvesper/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/usersvesper/badge3x.png"
+      },
+      {
+         "tooltip":"Parzi49 Badge",
+         "image1":"https://itzalex.github.io/badgesusers/parzi49/badge.gif",
+         "users":[
+            "232024028"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/parzi49/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/parzi49/badge3x.gif"
+      },
+      {
+         "tooltip":"benjxxm Badge",
+         "image1":"https://itzalex.github.io/badgesusers/benjxxm/badge.png",
+         "users":[
+            "166559097"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/benjxxm/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/benjxxm/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
@@ -85,11 +112,8 @@
          "tooltip":"Chatterino Special Pepe Badge",
          "image1":"https://fourtf.com/chatterino/badges/pepe.png",
          "users":[
-            "166559097",
             "191985870",
-            "95700563",
             "223854974",
-            "232024028",
             "601439452",
             "234637869",
             "68125102",
