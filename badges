@@ -118,6 +118,33 @@
          "image3":"https://itzalex.github.io/badgesusers/lucasev_/badge3x.png"
       },
       {
+         "tooltip":"Supibot Badge",
+         "image1":"https://itzalex.github.io/badgesusers/supibot/badge.png",
+         "users":[
+            "68136884"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/supibot/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/supibot/badge3x.png"
+      },
+      {
+         "tooltip":"ThePositiveBot Badge",
+         "image1":"https://itzalex.github.io/badgesusers/thepositivebot/badge.png",
+         "users":[
+            "425363834"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/thepositivebot/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/thepositivebot/badge3x.png"
+      },
+      {
+         "tooltip":"egsbot Badge",
+         "image1":"https://itzalex.github.io/badgesusers/egsbot/badge.png",
+         "users":[
+            "571060735"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/egsbot/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/egsbot/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
