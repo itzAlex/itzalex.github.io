@@ -109,6 +109,15 @@
          "image3":"https://itzalex.github.io/badgesusers/elhuerto27/badge3x.png"
       },
       {
+         "tooltip":"LucasEV_ Badge",
+         "image1":"https://itzalex.github.io/badgesusers/lucasev_/badge.png",
+         "users":[
+            "186767104"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/lucasev_/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/lucasev_/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
@@ -126,7 +135,6 @@
             "601439452",
             "234637869",
             "68125102",
-            "186767104",
             "476533768",
             "156886053",
             "53835261",
