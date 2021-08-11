@@ -145,6 +145,15 @@
          "image3":"https://itzalex.github.io/badgesusers/egsbot/badge3x.png"
       },
       {
+         "tooltip":"fernand0villarr Badge",
+         "image1":"https://itzalex.github.io/badgesusers/fernand0villarr/badge.gif",
+         "users":[
+            "234637869"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/fernand0villarr/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/fernand0villarr/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
@@ -160,7 +169,6 @@
             "191985870",
             "223854974",
             "601439452",
-            "234637869",
             "68125102",
             "476533768",
             "156886053",
