@@ -163,6 +163,15 @@
          "image3":"https://itzalex.github.io/badgesusers/estebanmr/badge3x.png"
       },
       {
+         "tooltip":"Yeraif_ Badge",
+         "image1":"https://fourtf.com/chatterino/badges/pepe.png",
+         "users":[
+            "491746812"
+         ],
+         "image2":"https://fourtf.com/chatterino/badges/pepe2x.png",
+         "image3":"https://fourtf.com/chatterino/badges/pepe3x.png"
+      }
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
@@ -182,8 +191,7 @@
             "476533768",
             "156886053",
             "53835261",
-            "162269507",
-            "491746812"
+            "162269507"
          ],
          "image2":"https://fourtf.com/chatterino/badges/pepe2x.png",
          "image3":"https://fourtf.com/chatterino/badges/pepe3x.png"
