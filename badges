@@ -154,6 +154,15 @@
          "image3":"https://itzalex.github.io/badgesusers/fernand0villarr/badge3x.gif"
       },
       {
+         "tooltip":"estebanmr Badge",
+         "image1":"https://itzalex.github.io/badgesusers/estebanmr/badge.png",
+         "users":[
+            "460424307"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/estebanmr/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/estebanmr/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
