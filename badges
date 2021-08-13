@@ -172,6 +172,15 @@
          "image3":"https://fourtf.com/chatterino/badges/pepe3x.png"
       },
       {
+         "tooltip":"lDreaa Badge",
+         "image1":"https://itzalex.github.io/badgesusers/ldreaa/badge.png",
+         "users":[
+            "476533768"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/ldreaa/badge.png",
+         "image3":"https://itzalex.github.io/badgesusers/ldreaa/badge.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
@@ -188,7 +197,6 @@
             "223854974",
             "601439452",
             "68125102",
-            "476533768",
             "156886053",
             "53835261",
             "162269507"
