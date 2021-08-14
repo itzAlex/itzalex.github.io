@@ -190,6 +190,15 @@
          "image3":"https://itzalex.github.io/badgesusers/stakkadugan/badge3x.gif"
       },
       {
+         "tooltip":"IlloJuan_Bot Badge",
+         "image1":"https://itzalex.github.io/badgesusers/illojuan_bot/badge.png",
+         "users":[
+            "701279020"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/illojuan_bot/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/illojuan_bot/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
