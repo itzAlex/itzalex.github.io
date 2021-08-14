@@ -181,6 +181,15 @@
          "image3":"https://itzalex.github.io/badgesusers/ldreaa/badge3x.png"
       },
       {
+         "tooltip":"StakkaDugan Badge",
+         "image1":"https://itzalex.github.io/badgesusers/stakkadugan/badge.gif",
+         "users":[
+            "536387934"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/stakkadugan/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/stakkadugan/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
