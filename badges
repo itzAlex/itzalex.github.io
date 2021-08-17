@@ -208,6 +208,15 @@
          "image3":"https://itzalex.github.io/badgesusers/itsguerrero_/badge3x.gif"
       },
       {
+         "tooltip":"JKRicksterr Badge",
+         "image1":"https://itzalex.github.io/badgesusers/jkricksterr/badge.png",
+         "users":[
+            "118858784"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/jkricksterr/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/jkricksterr/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
