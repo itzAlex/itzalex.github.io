@@ -226,6 +226,15 @@
          "image3":"https://itzalex.github.io/badgesusers/yorsy/badge3x.png"
       },
       {
+         "tooltip":"Kefno_ Badge",
+         "image1":"https://itzalex.github.io/badgesusers/kefno/badge.png",
+         "users":[
+            "53835261"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/kefno/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/kefno/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
