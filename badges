@@ -253,6 +253,15 @@
          "image3":"https://itzalex.github.io/badgesusers/ruben_sannmi/badge3x.png"
       },
       {
+         "tooltip":"maria012017 Badge",
+         "image1":"https://itzalex.github.io/badgesusers/maria012017/badge.gif",
+         "users":[
+            "192307763"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/maria012017/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/maria012017/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
