@@ -235,6 +235,15 @@
          "image3":"https://itzalex.github.io/badgesusers/kefno/badge3x.png"
       },
       {
+         "tooltip":"LRomeroo_ Badge",
+         "image1":"https://itzalex.github.io/badgesusers/lromeroo/badge.png",
+         "users":[
+            "191702817"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/lromeroo/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/lromeroo/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
