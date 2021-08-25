@@ -209,12 +209,12 @@
       },
       {
          "tooltip":"JKRicksterr Badge",
-         "image1":"https://itzalex.github.io/badgesusers/jkricksterr/badge.png",
+         "image1":"https://itzalex.github.io/badgesusers/jkricksterr/badge.gif",
          "users":[
             "118858784"
          ],
-         "image2":"https://itzalex.github.io/badgesusers/jkricksterr/badge2x.png",
-         "image3":"https://itzalex.github.io/badgesusers/jkricksterr/badge3x.png"
+         "image2":"https://itzalex.github.io/badgesusers/jkricksterr/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/jkricksterr/badge3x.gif"
       },
       {
          "tooltip":"Yorsy Badge",
@@ -262,6 +262,15 @@
          "image3":"https://itzalex.github.io/badgesusers/maria012017/badge3x.gif"
       },
       {
+         "tooltip":"SrJy_ Badge",
+         "image1":"https://itzalex.github.io/badgesusers/srjy_/badge.png",
+         "users":[
+            "156886053"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/srjy_/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/srjy_/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
@@ -274,12 +283,8 @@
          "tooltip":"Chatterino Special Pepe Badge",
          "image1":"https://fourtf.com/chatterino/badges/pepe.png",
          "users":[
-            "191985870",
-            "223854974",
             "601439452",
             "68125102",
-            "156886053",
-            "53835261",
             "162269507"
          ],
          "image2":"https://fourtf.com/chatterino/badges/pepe2x.png",
