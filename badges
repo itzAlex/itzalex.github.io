@@ -280,6 +280,15 @@
          "image3":"https://itzalex.github.io/badgesusers/alkon___/badge3x.gif"
       },
       {
+         "tooltip":"Trujilexa Badge",
+         "image1":"https://itzalex.github.io/badgesusers/trujilexa/badge.png",
+         "users":[
+            "188159294"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/trujilexa/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/trujilexa/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
