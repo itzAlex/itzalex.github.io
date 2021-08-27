@@ -271,6 +271,15 @@
          "image3":"https://itzalex.github.io/badgesusers/srjy_/badge3x.png"
       },
       {
+         "tooltip":"Alkon___ Badge",
+         "image1":"https://itzalex.github.io/badgesusers/alkon___/badge.gif",
+         "users":[
+            "571697159"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/alkon___/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/alkon___/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
