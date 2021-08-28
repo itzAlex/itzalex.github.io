@@ -298,6 +298,15 @@
          "image3":"https://itzalex.github.io/badgesusers/kevinturtle_urko/badge3x.png"
       },
       {
+         "tooltip":"jhojanns123 Badge",
+         "image1":"https://itzalex.github.io/badgesusers/jhojanns123/badge.png",
+         "users":[
+            "210991278"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/jhojanns123/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/jhojanns123/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
