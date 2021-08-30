@@ -359,17 +359,6 @@
          ],
          "image2":"https://fourtf.com/chatterino/badges/dev2x.png",
          "image3":"https://fourtf.com/chatterino/badges/dev3x.png"
-      },
-      {
-         "tooltip":"Chatterino Special Pepe Badge",
-         "image1":"https://fourtf.com/chatterino/badges/pepe.png",
-         "users":[
-            "601439452",
-            "68125102",
-            "162269507"
-         ],
-         "image2":"https://fourtf.com/chatterino/badges/pepe2x.png",
-         "image3":"https://fourtf.com/chatterino/badges/pepe3x.png"
       }
    ]
 }
