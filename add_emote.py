@@ -109,7 +109,7 @@ def addEmote():
 
 	if not os.path.isdir('./emote/' + emoteID): 
 		os.makedirs('./emote/' + emoteID)
-		print(W + "[" + B + time.strftime("%H:%M:%S") + W + "]" + W + "[" + G + "+" + W + "]" + " Downloading emote..." + Y)
+		print(W + "[" + B + time.strftime("%H:%M:%S") + W + "]" + W + "[" + G + "+" + W + "]" + " Downloading emote... (" + response['data']['emote']['name'] + ")" + Y)
 		
 		request3X = requests.get('https://cdn.7tv.app/emote/' + emoteID + '/3x')
 		request2X = requests.get('https://cdn.7tv.app/emote/' + emoteID + '/2x')
@@ -136,7 +136,7 @@ def addEmote():
 		print(W + "[" + B + time.strftime("%H:%M:%S") + W + "]" + W + "[" + G + "+" + W + "]" + " Emote added successfully" + Y)
 	
 	else:
-		print(W + "[" + B + time.strftime("%H:%M:%S") + W + "]" + W + "[" + G + "+" + W + "]" + " Skipping emote download since it already exists..." + Y)
+		print(W + "[" + B + time.strftime("%H:%M:%S") + W + "]" + W + "[" + G + "+" + W + "]" + " Skipping emote download since it already exists... (" + response['data']['emote']['name'] + ")" + Y)
 
 		new_emote_data = {
 						  "id":emoteID,
