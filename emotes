@@ -1,22 +1,27 @@
 {
-    "data": {
-        "global_emotes": [{
-            "id": "603caf21c20d020014423c16",
-            "name": "TestingGlobal",
-            "author": "Homies"
-        },  {
-            "id": "6128ed55a50c52b1429e09dc",
-            "name": "PETPET",
-            "author": "Homies"
-        }],
-        "channel_emotes": {
-            "59842770": {
-                emotes: [{
-                    "id": "60bb9da43966d1ecd91ff122",
-                    "name": "TestingChannel",
-                    "author": "Homies"
-                }]
-            }
-        }
-    }
+   "data":{
+      "global_emotes":[
+         {
+            "id":"603caf21c20d020014423c16",
+            "name":"TestingGlobal",
+            "author":"Homies"
+         },
+         {
+            "id":"6128ed55a50c52b1429e09dc",
+            "name":"PETPET",
+            "author":"Homies"
+         }
+      ],
+      "channel_emotes":{
+         "59842770":{
+            "emotes":[
+               {
+                  "id":"60bb9da43966d1ecd91ff122",
+                  "name":"TestingChannel",
+                  "author":"Homies"
+               }
+            ]
+         }
+      }
+   }
 }
