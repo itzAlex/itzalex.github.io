@@ -352,6 +352,15 @@
          "image3":"https://itzalex.github.io/badgesusers/antoomv/badge3x.gif"
       },
       {
+         "tooltip":"Sulkiest Badge",
+         "image1":"https://itzalex.github.io/badgesusers/sulkiest/badge.gif",
+         "users":[
+            "68125102"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/sulkiest/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/sulkiest/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
