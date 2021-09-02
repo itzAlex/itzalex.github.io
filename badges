@@ -370,6 +370,15 @@
          "image3":"https://itzalex.github.io/badgesusers/juerno_reformed/badge3x.png"
       },
       {
+         "tooltip":"MariiinaLeon Badge",
+         "image1":"https://itzalex.github.io/badgesusers/mariiinaleon/badge.gif",
+         "users":[
+            "483804925"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/mariiinaleon/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/mariiinaleon/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
