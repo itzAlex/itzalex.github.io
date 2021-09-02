@@ -168,7 +168,7 @@ def parser_error(errmsg):
 	sys.exit()
 
 def parse_args():
-    parser = argparse.ArgumentParser(epilog="\tExample: \r\npython " + sys.argv[0] + " -a")
+    parser = argparse.ArgumentParser(epilog="\tExample: \r\npython " + sys.argv[0] + " -a -g -e 6058c64aba9052000d450972")
     parser.error = parser_error
     parser._optionals.title = "OPTIONS"
     parser.add_argument('-a', '--add', help="Add emote", required=False, action="store_true")
@@ -194,6 +194,10 @@ def interactive():
 
 	if (args.globalemote and args.channelemote):
 		print(W + "[" + B + time.strftime("%H:%M:%S") + W + "]" + W + "[" + R + BOLD + "!" + W + "]" + " Error - You can only use one of the follow arguments: " + Y + "-g/--global" + W + "," + Y + " -c/--channel" + W)
+		sys.exit()
+
+	if (args.add and args.remove):
+		print(W + "[" + B + time.strftime("%H:%M:%S") + W + "]" + W + "[" + R + BOLD + "!" + W + "]" + " Error - You can only use one of the follow arguments: " + Y + "-a/--add" + W + "," + Y + " -r/--remove" + W)
 		sys.exit()	
 
 	emoteID = args.emote
