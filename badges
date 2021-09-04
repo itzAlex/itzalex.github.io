@@ -424,6 +424,15 @@
          "image3":"https://itzalex.github.io/badgesusers/mimotillo/badge3x.gif"
       },
       {
+         "tooltip":"0ocho00 Badge",
+         "image1":"https://itzalex.github.io/badgesusers/0ocho00/badge.gif",
+         "users":[
+            "683847131"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/0ocho00/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/0ocho00/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
