@@ -406,6 +406,15 @@
          "image3":"https://itzalex.github.io/badgesusers/raulduri37/badge3x.png"
       },
       {
+         "tooltip":"Josvelto Badge",
+         "image1":"https://itzalex.github.io/badgesusers/josvelto/badge.gif",
+         "users":[
+            "53049397"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/josvelto/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/josvelto/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
