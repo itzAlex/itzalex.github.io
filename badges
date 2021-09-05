@@ -460,6 +460,15 @@
          "image3":"https://itzalex.github.io/badgesusers/andreudzn/badge3x.gif"
       },
       {
+         "tooltip":"davidbar_ Badge",
+         "image1":"https://itzalex.github.io/badgesusers/davidbar_/badge.gif",
+         "users":[
+            "245826613"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/davidbar_/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/davidbar_/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
