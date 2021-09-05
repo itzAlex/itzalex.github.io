@@ -469,6 +469,15 @@
          "image3":"https://itzalex.github.io/badgesusers/davidbar_/badge3x.gif"
       },
       {
+         "tooltip":"gaedo16 Badge",
+         "image1":"https://itzalex.github.io/badgesusers/gaedo16/badge.png",
+         "users":[
+            "96135725"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/gaedo16/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/gaedo16/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
