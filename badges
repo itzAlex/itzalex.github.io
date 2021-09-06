@@ -487,6 +487,15 @@
          "image3":"https://itzalex.github.io/badgesusers/heredik/badge3x.gif"
       },
       {
+         "tooltip":"knc2101 Badge",
+         "image1":"https://itzalex.github.io/badgesusers/knc2101/badge.gif",
+         "users":[
+            "263030913"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/knc2101/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/knc2101/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
