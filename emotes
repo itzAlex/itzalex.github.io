@@ -115,6 +115,11 @@
                 "id": "60afd309a3648f409af36618",
                 "name": "maraca",
                 "author": "victorbaya"
+            },
+            {
+                "id": "6121829dbc0fb9d60b9c56ca",
+                "name": "APU",
+                "author": "ImSoiL_"
             }
         ],
         "channel_emotes": {
