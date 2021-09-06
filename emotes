@@ -125,6 +125,11 @@
                 "id": "60aeff0411a994a4acdd36b6",
                 "name": "docnotL",
                 "author": "XOOSD"
+            },
+            {
+                "id": "60afd309a3648f409af36618",
+                "name": "maraca",
+                "author": "victorbaya"
             }
         ],
         "channel_emotes": {
