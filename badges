@@ -505,6 +505,15 @@
          "image3":"https://itzalex.github.io/badgesusers/croquetitasdejamon/badge3x.png"
       },
       {
+         "tooltip":"SignaT_T Badge",
+         "image1":"https://itzalex.github.io/badgesusers/signat_t/badge.png",
+         "users":[
+            "179623922"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/signat_t/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/signat_t/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
