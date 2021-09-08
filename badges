@@ -532,6 +532,15 @@
          "image3":"https://itzalex.github.io/badgesusers/axlr0uz/badge3x.gif"
       },
       {
+         "tooltip":"lTamalinl Badge",
+         "image1":"https://itzalex.github.io/badgesusers/ltamalinl/badge.png",
+         "users":[
+            "167073512"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/ltamalinl/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/ltamalinl/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
