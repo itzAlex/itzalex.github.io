@@ -523,6 +523,15 @@
          "image3":"https://itzalex.github.io/badgesusers/joumur/badge3x.png"
       },
       {
+         "tooltip":"AxlR0uz Badge",
+         "image1":"https://itzalex.github.io/badgesusers/axlr0uz/badge.gif",
+         "users":[
+            "141348065"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/axlr0uz/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/axlr0uz/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
