@@ -550,6 +550,15 @@
          "image3":"https://itzalex.github.io/badgesusers/panchik0_/badge3x.gif"
       },
       {
+         "tooltip":"mireiamilho Badge",
+         "image1":"https://itzalex.github.io/badgesusers/mireiamilho/badge.png",
+         "users":[
+            "471534040"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/mireiamilho/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/mireiamilho/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
