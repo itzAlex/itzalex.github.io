@@ -559,6 +559,15 @@
          "image3":"https://itzalex.github.io/badgesusers/mireiamilho/badge3x.png"
       },
       {
+         "tooltip":"0kayga Badge",
+         "image1":"https://itzalex.github.io/badgesusers/0kayga/badge.gif",
+         "users":[
+            "570220755"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/0kayga/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/0kayga/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
