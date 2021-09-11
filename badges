@@ -577,6 +577,15 @@
          "image3":"https://itzalex.github.io/badgesusers/tenksit/badge3x.gif"
       },
       {
+         "tooltip":"itsasierin50 Badge",
+         "image1":"https://itzalex.github.io/badgesusers/itsasierin50/badge.gif",
+         "users":[
+            "457379434"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/itsasierin50/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/itsasierin50/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
