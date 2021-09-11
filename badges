@@ -586,6 +586,15 @@
          "image3":"https://itzalex.github.io/badgesusers/itsasierin50/badge3x.gif"
       },
       {
+         "tooltip":"victorbaya Badge",
+         "image1":"https://itzalex.github.io/badgesusers/victorbaya/badge.gif",
+         "users":[
+            "200724675"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/victorbaya/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/victorbaya/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
