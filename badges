@@ -631,6 +631,15 @@
          "image3":"https://itzalex.github.io/badgesusers/mysztic/badge3x.gif"
       },
       {
+         "tooltip":"lucks232 Badge",
+         "image1":"https://itzalex.github.io/badgesusers/lucks232/badge.png",
+         "users":[
+            "165737718"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/lucks232/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/lucks232/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
