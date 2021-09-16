@@ -613,6 +613,15 @@
          "image3":"https://itzalex.github.io/badgesusers/invix23_/badge3x.png"
       },
       {
+         "tooltip":"7zhoenn Badge",
+         "image1":"https://itzalex.github.io/badgesusers/7zhoenn/badge.gif",
+         "users":[
+            "468555748"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/7zhoenn/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/7zhoenn/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
