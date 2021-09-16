@@ -129,7 +129,13 @@
     ],
     "channel_emotes": {
       "7900": {
-        "emotes": []
+        "emotes": [
+          {
+            "id": "613d6fde83dc957725a3f487",
+            "name": "luigiSpin",
+            "author": "Yorsy"
+          }
+        ]
       },
       "59842770": {
         "emotes": [
