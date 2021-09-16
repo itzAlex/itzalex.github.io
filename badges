@@ -604,6 +604,15 @@
          "image3":"https://itzalex.github.io/badgesusers/mctlantcutli/badge3x.png"
       },
       {
+         "tooltip":"InVix23_ Badge",
+         "image1":"https://itzalex.github.io/badgesusers/invix23_/badge.png",
+         "users":[
+            "471993795"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/invix23_/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/invix23_/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
