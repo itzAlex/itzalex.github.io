@@ -622,6 +622,15 @@
          "image3":"https://itzalex.github.io/badgesusers/7zhoenn/badge3x.gif"
       },
       {
+         "tooltip":"Mysztic Badge",
+         "image1":"https://itzalex.github.io/badgesusers/mysztic/badge.gif",
+         "users":[
+            "472188044"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/mysztic/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/mysztic/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
