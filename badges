@@ -640,6 +640,15 @@
          "image3":"https://itzalex.github.io/badgesusers/lucks232/badge3x.png"
       },
       {
+         "tooltip":"vilnessx Badge",
+         "image1":"https://itzalex.github.io/badgesusers/vilnessx/badge.gif",
+         "users":[
+            "255285530"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/vilnessx/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/vilnessx/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
