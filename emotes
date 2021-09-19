@@ -135,6 +135,11 @@
                 "id": "60b0074a74d234a9691e0aa1",
                 "name": "wh0",
                 "author": "AM8ROSIO"
+            },
+            {
+                "id": "60b14a737a157a7f3360fb32",
+                "name": "Clueless",
+                "author": "100mp"
             }
         ],
         "channel_emotes": {
@@ -363,6 +368,14 @@
                     },
                     {
                         "id": "60420e5a77137b000de9e676",
+                        "name": "PepeHands",
+                        "author": "Mauriplss"
+                    }
+                ]
+            }
+        }
+    }
+}                   "id": "60420e5a77137b000de9e676",
                         "name": "PepeHands",
                         "author": "Mauriplss"
                     }
