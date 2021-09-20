@@ -667,6 +667,15 @@
          "image3":"https://itzalex.github.io/badgesusers/khoro13/badge3x.png"
       },
       {
+         "tooltip":"ROXER_99 Badge",
+         "image1":"https://itzalex.github.io/badgesusers/roxer_99/badge.gif",
+         "users":[
+            "88210697"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/roxer_99/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/roxer_99/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
