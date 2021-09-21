@@ -154,7 +154,13 @@
     ],
     "channel_emotes": {
       "7900": {
-        "emotes": []
+        "emotes": [
+          {
+            "id": "61062b0062ceea408a6819ac",
+            "name": "MarioFinger",
+            "author": "DerXiatos"
+          }
+        ]
       },
       "59842770": {
         "emotes": [
