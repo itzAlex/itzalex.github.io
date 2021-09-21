@@ -685,6 +685,15 @@
          "image3":"https://itzalex.github.io/badgesusers/anujbost/badge3x.png"
       },
       {
+         "tooltip":"axielwtf Badge",
+         "image1":"https://itzalex.github.io/badgesusers/axielwtf/badge.gif",
+         "users":[
+            "469116309"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/axielwtf/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/axielwtf/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
