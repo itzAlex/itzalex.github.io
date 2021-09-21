@@ -153,6 +153,15 @@
       }
     ],
     "channel_emotes": {
+      "7900": {
+        "emotes": [
+          {
+            "id": "60ae4ec30e35477634988c18",
+            "name": "COPIUM",
+            "author": "JustRoganTV"
+          }
+        ]
+      },
       "59842770": {
         "emotes": [
           {
