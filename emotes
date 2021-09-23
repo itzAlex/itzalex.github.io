@@ -449,7 +449,13 @@
         ]
       },
       "458977577": {
-        "emotes": []
+        "emotes": [
+          {
+            "id": "603cb188c20d020014423c2b",
+            "name": "autismPls",
+            "author": "Teeemosh"
+          }
+        ]
       }
     }
   }
