@@ -360,6 +360,11 @@
             "id": "60fbaf455b7deb3de0b3711e",
             "name": "nooasdfghjk",
             "author": "neidalcoffex"
+          },
+          {
+            "id": "611f15dfe6802157ec5ddedf",
+            "name": "Hamood",
+            "author": "eventooooo"
           }
         ]
       },
@@ -444,13 +449,7 @@
         ]
       },
       "458977577": {
-        "emotes": [
-          {
-            "id": "603cb188c20d020014423c2b",
-            "name": "autismPls",
-            "author": "Teeemosh"
-          }
-        ]
+        "emotes": []
       }
     }
   }
