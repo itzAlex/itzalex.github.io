@@ -703,6 +703,15 @@
          "image3":"https://itzalex.github.io/badgesusers/ulixs_210/badge3x.gif"
       },
       {
+         "tooltip":"GrxssAsFxck Badge",
+         "image1":"https://itzalex.github.io/badgesusers/grxssasfxck/badge.png",
+         "users":[
+            "430348652"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/grxssasfxck/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/grxssasfxck/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
