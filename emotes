@@ -423,7 +423,13 @@
         ]
       },
       "114937425": {
-        "emotes": []
+        "emotes": [
+          {
+            "id": "60afb852566c3e1fc99cd799",
+            "name": "pepeFASTEST",
+            "author": "mistrzu__"
+          }
+        ]
       },
       "262386341": {
         "emotes": [
