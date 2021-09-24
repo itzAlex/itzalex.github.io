@@ -712,6 +712,15 @@
          "image3":"https://itzalex.github.io/badgesusers/grxssasfxck/badge3x.png"
       },
       {
+         "tooltip":"CheemsFroger Badge",
+         "image1":"https://itzalex.github.io/badgesusers/cheemsfroger/badge.gif",
+         "users":[
+            "536501101"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/cheemsfroger/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/cheemsfroger/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
