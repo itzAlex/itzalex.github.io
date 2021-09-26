@@ -748,6 +748,15 @@
          "image3":"https://itzalex.github.io/badgesusers/loxy_26/badge3x.png"
       },
       {
+         "tooltip":"el_emiii Badge",
+         "image1":"https://itzalex.github.io/badgesusers/el_emiii/badge.gif",
+         "users":[
+            "186895126"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/el_emiii/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/el_emiii/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
