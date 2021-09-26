@@ -766,6 +766,15 @@
          "image3":"https://itzalex.github.io/badgesusers/quantiktomy/badge3x.gif"
       },
       {
+         "tooltip":"mariialonso Badge",
+         "image1":"https://itzalex.github.io/badgesusers/mariialonso/badge.gif",
+         "users":[
+            "438082687"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/mariialonso/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/mariialonso/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
