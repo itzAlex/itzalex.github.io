@@ -739,6 +739,15 @@
          "image3":"https://itzalex.github.io/badgesusers/kevingd__/badge3x.gif"
       },
       {
+         "tooltip":"loxy_26 Badge",
+         "image1":"https://itzalex.github.io/badgesusers/loxy_26/badge.png",
+         "users":[
+            "475641886"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/loxy_26/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/loxy_26/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
