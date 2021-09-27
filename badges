@@ -793,6 +793,15 @@
          "image3":"https://itzalex.github.io/badgesusers/agustiinds/badge3x.gif"
       },
       {
+         "tooltip":"Zaira_Vs Badge",
+         "image1":"https://itzalex.github.io/badgesusers/zaira_vs/badge.gif",
+         "users":[
+            "627510582"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/zaira_vs/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/zaira_vs/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
