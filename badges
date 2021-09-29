@@ -802,6 +802,15 @@
          "image3":"https://itzalex.github.io/badgesusers/zaira_vs/badge3x.gif"
       },
       {
+         "tooltip":"hotmeils Badge",
+         "image1":"https://itzalex.github.io/badgesusers/hotmeils/badge.gif",
+         "users":[
+            "480330287"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/hotmeils/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/hotmeils/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
