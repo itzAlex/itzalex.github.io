@@ -820,6 +820,15 @@
          "image3":"https://itzalex.github.io/badgesusers/j_a_pg/badge3x.png"
       },
       {
+         "tooltip":"moecoquito Badge",
+         "image1":"https://itzalex.github.io/badgesusers/moecoquito/badge.png",
+         "users":[
+            "532715710"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/moecoquito/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/moecoquito/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
