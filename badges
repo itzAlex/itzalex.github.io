@@ -811,6 +811,15 @@
          "image3":"https://itzalex.github.io/badgesusers/hotmeils/badge3x.gif"
       },
       {
+         "tooltip":"J_a_pg Badge",
+         "image1":"https://itzalex.github.io/badgesusers/j_a_pg/badge.png",
+         "users":[
+            "599565287"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/j_a_pg/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/j_a_pg/badge3x.png"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
