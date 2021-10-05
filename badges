@@ -829,6 +829,15 @@
          "image3":"https://itzalex.github.io/badgesusers/clober/badge3x.gif"
       },
       {
+         "tooltip":"NachoErreKa__ Badge",
+         "image1":"https://itzalex.github.io/badgesusers/nachoerreka__/badge.gif",
+         "users":[
+            "172763098"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/nachoerreka__/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/nachoerreka__/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
