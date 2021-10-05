@@ -820,6 +820,15 @@
          "image3":"https://itzalex.github.io/badgesusers/moecoquito/badge3x.png"
       },
       {
+         "tooltip":"Clober Badge",
+         "image1":"https://itzalex.github.io/badgesusers/clober/badge.gif",
+         "users":[
+            "115402550"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/clober/badge2x.gif",
+         "image3":"https://itzalex.github.io/badgesusers/clober/badge3x.gif"
+      },
+      {
          "tooltip":"Chatterino Developer",
          "image1":"https://fourtf.com/chatterino/badges/dev.png",
          "users":[
