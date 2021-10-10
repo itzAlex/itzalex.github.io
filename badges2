@@ -1,13 +1,31 @@
 {
    "badges":[
       {
-         "tooltip":"Chatterino Developer",
-         "image1":"https://fourtf.com/chatterino/badges/dev.png",
+         "tooltip":"Chatterino Homies Developer",
+         "image1":"https://itzalex.github.io/badgesusers/dev/badge.png",
          "users":[
-            "59842770"
+            ""
          ],
-         "image2":"https://fourtf.com/chatterino/badges/dev2x.png",
-         "image3":"https://fourtf.com/chatterino/badges/dev3x.png"
+         "image2":"https://itzalex.github.io/badgesusers/dev/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/dev/badge3x.png"
+      },
+      {
+         "tooltip":"Chatterino Homies Supporter",
+         "image1":"https://itzalex.github.io/badgesusers/supporter/badge.png",
+         "users":[
+            ""
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/supporter/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/supporter/badge3x.png"
+      },
+      {
+         "tooltip":"Chatterino Homies Founder",
+         "image1":"https://itzalex.github.io/badgesusers/founder/badge.png",
+         "users":[
+            ""
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/founder/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/founder/badge3x.png"
       }
    ]
 }
