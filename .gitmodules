@@ -1,0 +1,3 @@
+[submodule "jChat"]
+	path = jChat
+	url = https://github.com/itzAlex/jChat
