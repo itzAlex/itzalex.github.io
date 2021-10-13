@@ -2,11 +2,6 @@
     "data": {
         "global_emotes": [
             {
-                "id": "60ca44093591d98c40a1b6e2",
-                "name": "TUMADRE",
-                "author": "\u00eb\u00b6\u20ac\u00eb\u00a3\u00b8"
-            },
-            {
                 "id": "6042089e77137b000de9e669",
                 "name": "OMEGALUL",
                 "author": "Mauriplss"
@@ -15,11 +10,6 @@
                 "id": "611853a5d281ac4021e0b127",
                 "name": "OMEGADANCE",
                 "author": "arthuurPls"
-            },
-            {
-                "id": "609eec98b55466cf074f729b",
-                "name": "lol",
-                "author": "Ttootts"
             },
             {
                 "id": "60a62d3aac08622846e7c96f",
@@ -50,11 +40,6 @@
                 "id": "60dea18e6ef5a66f417d1dc2",
                 "name": "PINGED",
                 "author": "feiipito"
-            },
-            {
-                "id": "60b936bc5d373afbd6192438",
-                "name": "calla",
-                "author": "AMBROSIO69"
             },
             {
                 "id": "605305868c870a000de38b6f",
@@ -97,11 +82,6 @@
                 "author": "evilmessy"
             },
             {
-                "id": "60e0f94ea940e0942813a339",
-                "name": "SOLOVEOTEXTO",
-                "author": "vicesmile_"
-            },
-            {
                 "id": "60ae56379986a0034908187f",
                 "name": "ICANT",
                 "author": "TheShadows1337"
@@ -110,11 +90,6 @@
                 "id": "60aeff0411a994a4acdd36b6",
                 "name": "docnotL",
                 "author": "XOOSD"
-            },
-            {
-                "id": "60afd309a3648f409af36618",
-                "name": "maraca",
-                "author": "victorbaya"
             },
             {
                 "id": "6121829dbc0fb9d60b9c56ca",
@@ -132,19 +107,9 @@
                 "author": "ledroy"
             },
             {
-                "id": "60b0074a74d234a9691e0aa1",
-                "name": "wh0",
-                "author": "AM8ROSIO"
-            },
-            {
                 "id": "60b14a737a157a7f3360fb32",
                 "name": "Clueless",
                 "author": "100mp"
-            },
-            {
-                "id": "60c162b624613aa21852f2ff",
-                "name": "Tenis",
-                "author": "Sulkiest"
             },
             {
                 "id": "603f56c4115b55000d72830f",
@@ -157,16 +122,6 @@
                 "author": "ShmovTheJedi"
             },
             {
-                "id": "614bc75420eaf897465a0675",
-                "name": "0k",
-                "author": "xoosd"
-            },
-            {
-                "id": "60afa44f99923bbe7f534b0e",
-                "name": "xD",
-                "author": "AS43_"
-            },
-            {
                 "id": "60af5a91a564afa26e47a846",
                 "name": "Phone",
                 "author": "Aifanny"
@@ -175,6 +130,11 @@
                 "id": "615a6080d09acba42f7e7f60",
                 "name": "FireStrut",
                 "author": "itzAlexPL"
+            },
+            {
+                "id": "60b936bc5d373afbd6192438",
+                "name": "stfuBitch",
+                "author": "AM8ROSIO"
             }
         ],
         "channel_emotes": {
@@ -445,6 +405,31 @@
                         "id": "60f7372bf7fdd1860a7dcbb2",
                         "name": "Alarma",
                         "author": "NachoSlv"
+                    },
+                    {
+                        "id": "609eec98b55466cf074f729b",
+                        "name": "lol",
+                        "author": "Ttootts"
+                    },
+                    {
+                        "id": "60ca44093591d98c40a1b6e2",
+                        "name": "TUMADRE",
+                        "author": "\ubd80\ub8f8"
+                    },
+                    {
+                        "id": "60e0f94ea940e0942813a339",
+                        "name": "SOLOVEOTEXTO",
+                        "author": "vicesmile_"
+                    },
+                    {
+                        "id": "60b0074a74d234a9691e0aa1",
+                        "name": "who",
+                        "author": "AM8ROSIO"
+                    },
+                    {
+                        "id": "60afd309a3648f409af36618",
+                        "name": "maraca",
+                        "author": "victorbaya"
                     }
                 ]
             },
