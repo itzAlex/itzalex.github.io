@@ -1,654 +1,659 @@
 {
-    "data": {
-        "global_emotes": [
-            {
-                "id": "6042089e77137b000de9e669",
-                "name": "OMEGALUL",
-                "author": "Mauriplss"
-            },
-            {
-                "id": "611853a5d281ac4021e0b127",
-                "name": "OMEGADANCE",
-                "author": "arthuurPls"
-            },
-            {
-                "id": "60a62d3aac08622846e7c96f",
-                "name": "YESIDOTHINKSO",
-                "author": "juAnSuckS"
-            },
-            {
-                "id": "60ad8c93c7188f3be2332566",
-                "name": "NOIDONTTHINKSO",
-                "author": "Multex_uwu"
-            },
-            {
-                "id": "60ae46e15d3fdae583a811a0",
-                "name": "KEKWPoint",
-                "author": "victorbaya"
-            },
-            {
-                "id": "60b1868058275001781a8bd5",
-                "name": "THISS",
-                "author": "FabulousPotato69"
-            },
-            {
-                "id": "60ccf4479f5edeff9938fa77",
-                "name": "SUSSY",
-                "author": "supa8"
-            },
-            {
-                "id": "60dea18e6ef5a66f417d1dc2",
-                "name": "PINGED",
-                "author": "feiipito"
-            },
-            {
-                "id": "605305868c870a000de38b6f",
-                "name": "LULE",
-                "author": "noctum2k"
-            },
-            {
-                "id": "609eedc74c18609a1d988700",
-                "name": "Caught4k",
-                "author": "yoim5th"
-            },
-            {
-                "id": "603caa69faf3a00014dff0b1",
-                "name": "Okayeg",
-                "author": "no_title24"
-            },
-            {
-                "id": "608bd89599dcd148faf026cd",
-                "name": "forsenInsane",
-                "author": "tehargi_"
-            },
-            {
-                "id": "60ae2b1faee2aa5538ac7b5f",
-                "name": "cmonbRuh",
-                "author": "sodagod"
-            },
-            {
-                "id": "60b2fd1aab2a2a9c95bd44a8",
-                "name": "YOURM0M",
-                "author": "bh4tti"
-            },
-            {
-                "id": "60aeed3312d7701491049252",
-                "name": "heFuckin",
-                "author": "BENJXXM"
-            },
-            {
-                "id": "60aea366ac03cad607fd97a4",
-                "name": "CLEAN",
-                "author": "evilmessy"
-            },
-            {
-                "id": "60ae56379986a0034908187f",
-                "name": "ICANT",
-                "author": "TheShadows1337"
-            },
-            {
-                "id": "60aeff0411a994a4acdd36b6",
-                "name": "docnotL",
-                "author": "XOOSD"
-            },
-            {
-                "id": "6121829dbc0fb9d60b9c56ca",
-                "name": "APU",
-                "author": "ImSoiL_"
-            },
-            {
-                "id": "60aec1d15174a619db0f01c8",
-                "name": "Tasty",
-                "author": "Neowav"
-            },
-            {
-                "id": "60bbc79a638e26bcc8445418",
-                "name": "fortniteDance",
-                "author": "ledroy"
-            },
-            {
-                "id": "60b14a737a157a7f3360fb32",
-                "name": "Clueless",
-                "author": "100mp"
-            },
-            {
-                "id": "603f56c4115b55000d72830f",
-                "name": "Stoning",
-                "author": "Maspunch"
-            },
-            {
-                "id": "60f958dec07d1ac1935d18d2",
-                "name": "patrickPls",
-                "author": "ShmovTheJedi"
-            },
-            {
-                "id": "60af5a91a564afa26e47a846",
-                "name": "Phone",
-                "author": "Aifanny"
-            },
-            {
-                "id": "615a6080d09acba42f7e7f60",
-                "name": "FireStrut",
-                "author": "itzAlexPL"
-            },
-            {
-                "id": "60b936bc5d373afbd6192438",
-                "name": "stfuBitch",
-                "author": "AM8ROSIO"
-            }
-        ],
-        "channel_emotes": {
-            "7900": {
-                "emotes": [
-                    {
-                        "id": "60ae4ec30e35477634988c18",
-                        "name": "COPIUM",
-                        "author": "JustRoganTV"
-                    }
-                ]
-            },
-            "59842770": {
-                "emotes": [
-                    {
-                        "id": "60aed4fe423a803ccae373d3",
-                        "name": "PETTHEMODS",
-                        "author": "AsianMaNz1"
-                    },
-                    {
-                        "id": "60fbc20c4653f5d6c1afa451",
-                        "name": "duckPls",
-                        "author": "brian6932"
-                    },
-                    {
-                        "id": "60ae2cfb259ac5a73ed9a00c",
-                        "name": "AlienPls3",
-                        "author": "heCrzy"
-                    },
-                    {
-                        "id": "60ae56999986a003490a1127",
-                        "name": "neonPls",
-                        "author": "TheShadows1337"
-                    },
-                    {
-                        "id": "60aeb2958a2d7f04b1f39091",
-                        "name": "Nerdge",
-                        "author": "onkel_jodok"
-                    },
-                    {
-                        "id": "611c13dc88f0e6c820fb9341",
-                        "name": "AD",
-                        "author": "ItsGuerrero_"
-                    },
-                    {
-                        "id": "60f958dec07d1ac1935d18d2",
-                        "name": "patrickPls",
-                        "author": "ShmovTheJedi"
-                    },
-                    {
-                        "id": "60bbc79a638e26bcc8445418",
-                        "name": "DreaPls",
-                        "author": "ledroy"
-                    },
-                    {
-                        "id": "60ae848af39a7552b6e04087",
-                        "name": "4Weird",
-                        "author": "sodagod"
-                    },
-                    {
-                        "id": "60aeeb28a564afa26ee7a7f2",
-                        "name": "HYPERS",
-                        "author": "JustRoganTV"
-                    },
-                    {
-                        "id": "60db86cbeec57bf75e1ba1d4",
-                        "name": "gaedo_",
-                        "author": "Gaedo_"
-                    },
-                    {
-                        "id": "60e0c850f6ce8aae54ff72c9",
-                        "name": "pe7roo",
-                        "author": "pe7roo"
-                    },
-                    {
-                        "id": "60aef3aea564afa26e686d8c",
-                        "name": "5Head",
-                        "author": "JustRoganTV"
-                    },
-                    {
-                        "id": "60ae538d0e35477634dc972d",
-                        "name": "TriEasy",
-                        "author": "victorbaya"
-                    },
-                    {
-                        "id": "612eedeec97e2b907aaa5409",
-                        "name": "android",
-                        "author": "MatysitoFlowBakan0"
-                    },
-                    {
-                        "id": "603eb97c115b55000d7282ec",
-                        "name": "Floppas",
-                        "author": "Maspunch"
-                    },
-                    {
-                        "id": "60db8b91eec57bf75e0c4a05",
-                        "name": "raulduri37",
-                        "author": "raulduri37"
-                    },
-                    {
-                        "id": "61411c757b14fdf700b8ec59",
-                        "name": "victorbaya",
-                        "author": "victorbaya"
-                    },
-                    {
-                        "id": "60b03d804d83b66c44e71266",
-                        "name": "EVENDANKERTHANWAYTOODANK",
-                        "author": "zneix"
-                    },
-                    {
-                        "id": "6130afabea1f0fbaa474a3d5",
-                        "name": "lmdshow",
-                        "author": "itzAlexPL"
-                    },
-                    {
-                        "id": "60aeb51856f54d7a40ada8f3",
-                        "name": "FloppaL",
-                        "author": "JustRoganTV"
-                    },
-                    {
-                        "id": "60b3ef57b109253798b0363e",
-                        "name": "peepoBOOM",
-                        "author": "Viscoito"
-                    },
-                    {
-                        "id": "60d9387b5b5d501631fd30ae",
-                        "name": "wiibowling",
-                        "author": "Notoriousbob69"
-                    },
-                    {
-                        "id": "60ae35b9259ac5a73e21ff6b",
-                        "name": "AlienPls0",
-                        "author": "heCrzy"
-                    },
-                    {
-                        "id": "60c7a469bfc4a1dd771e86d6",
-                        "name": "Idiot",
-                        "author": "beent0jailmate"
-                    },
-                    {
-                        "id": "60ad3e0906222d3c18ff9a32",
-                        "name": "VeryDonk",
-                        "author": "Olajvr"
-                    },
-                    {
-                        "id": "60c162b624613aa21852f2ff",
-                        "name": "Tenis",
-                        "author": "Sulkiest"
-                    },
-                    {
-                        "id": "60b24083b4c9c09d2874182a",
-                        "name": "dogBlast",
-                        "author": "Krodogs"
-                    },
-                    {
-                        "id": "61062b0062ceea408a6819ac",
-                        "name": "MarioFinger",
-                        "author": "DerXiatos"
-                    },
-                    {
-                        "id": "60af9e80566c3e1fc9f4a0a1",
-                        "name": "peepoComfy",
-                        "author": "maximus6216"
-                    },
-                    {
-                        "id": "61171aa1d3fbf90af7621079",
-                        "name": "!cookie",
-                        "author": "8Supa"
-                    },
-                    {
-                        "id": "60ae2ff2aee2aa5538c73c05",
-                        "name": "HomerGrind",
-                        "author": "blastyyy"
-                    },
-                    {
-                        "id": "60b3ba8420827eda3392efb5",
-                        "name": "vinceMoney",
-                        "author": "Zed0rf"
-                    }
-                ]
-            },
-            "66534503": {
-                "emotes": [
-                    {
-                        "id": "60f958dec07d1ac1935d18d2",
-                        "name": "patrickPls",
-                        "author": "ShmovTheJedi"
-                    },
-                    {
-                        "id": "60d9387b5b5d501631fd30ae",
-                        "name": "wiibowling",
-                        "author": "Notoriousbob69"
-                    },
-                    {
-                        "id": "60edf0c5a60faa2a9133ebd8",
-                        "name": "illojuanExplainingHow",
-                        "author": "AdriM16"
-                    }
-                ]
-            },
-            "68125102": {
-                "emotes": [
-                    {
-                        "id": "6042af401d4963000d9dae36",
-                        "name": "docPls",
-                        "author": "JirabruaR"
-                    },
-                    {
-                        "id": "60aeeb53a564afa26ee82323",
-                        "name": "monkaSTEER",
-                        "author": "JustRoganTV"
-                    },
-                    {
-                        "id": "60ba5e80671673093a6274e1",
-                        "name": "BBoomer",
-                        "author": "fk_mahyar_best"
-                    },
-                    {
-                        "id": "6041e1b789b604000d19fbbb",
-                        "name": "DonkChat",
-                        "author": "msun_"
-                    },
-                    {
-                        "id": "60c7a469bfc4a1dd771e86d6",
-                        "name": "Idiot",
-                        "author": "beent0jailmate"
-                    },
-                    {
-                        "id": "60ae92d4f39a7552b69c32bc",
-                        "name": "pokiShuffle",
-                        "author": "Yujin_Saros"
-                    },
-                    {
-                        "id": "6042255077137b000de9e68a",
-                        "name": "JesusBaller",
-                        "author": "Lopinios1"
-                    },
-                    {
-                        "id": "60ae8832f39a7552b6121962",
-                        "name": "ABDULwelcome",
-                        "author": "benASTRO"
-                    },
-                    {
-                        "id": "60ae247d259ac5a73eb6bf9c",
-                        "name": "ForsenImpersonatingYourMum",
-                        "author": "sodagod"
-                    },
-                    {
-                        "id": "60b1705f5827500178a4dc25",
-                        "name": "tucked",
-                        "author": "alastorv1"
-                    }
-                ]
-            },
-            "90075649": {
-                "emotes": [
-                    {
-                        "id": "6130afabea1f0fbaa474a3d5",
-                        "name": "lmdshou",
-                        "author": "itzAlexPL"
-                    },
-                    {
-                        "id": "6134d899434bb87c45d919b1",
-                        "name": "wuan",
-                        "author": "itzAlexPL"
-                    },
-                    {
-                        "id": "61361134baf761f5d4fd7345",
-                        "name": "MasiPag",
-                        "author": "AMBROSIO69"
-                    },
-                    {
-                        "id": "60f7372bf7fdd1860a7dcbb2",
-                        "name": "Alarma",
-                        "author": "NachoSlv"
-                    },
-                    {
-                        "id": "609eec98b55466cf074f729b",
-                        "name": "lol",
-                        "author": "Ttootts"
-                    },
-                    {
-                        "id": "60ca44093591d98c40a1b6e2",
-                        "name": "TUMADRE",
-                        "author": "\ubd80\ub8f8"
-                    },
-                    {
-                        "id": "60e0f94ea940e0942813a339",
-                        "name": "SOLOVEOTEXTO",
-                        "author": "vicesmile_"
-                    },
-                    {
-                        "id": "60b0074a74d234a9691e0aa1",
-                        "name": "who",
-                        "author": "AM8ROSIO"
-                    },
-                    {
-                        "id": "60afd309a3648f409af36618",
-                        "name": "maraca",
-                        "author": "victorbaya"
-                    },
-                    {
-                        "id": "60afa44f99923bbe7f534b0e",
-                        "name": "xD",
-                        "author": "AS43_"
-                    },
-                    {
-                        "id": "60c162b624613aa21852f2ff",
-                        "name": "Tenis",
-                        "author": "Sulkiest"
-                    },
-                    {
-                        "id": "614bc75420eaf897465a0675",
-                        "name": "0k",
-                        "author": "xoosd"
-                    },
-                    {
-                        "id": "60b936bc5d373afbd6192438",
-                        "name": "calla",
-                        "author": "AM8ROSIO"
-                    },
-                    {
-                        "id": "61086569adcc3d4386150eb2",
-                        "name": "melona",
-                        "author": "AM8ROSIO"
-                    }
-                ]
-            },
-            "96135725": {
-                "emotes": [
-                    {
-                        "id": "60fbaf455b7deb3de0b3711e",
-                        "name": "nooasdfghjk",
-                        "author": "neidalcoffex"
-                    },
-                    {
-                        "id": "611f15dfe6802157ec5ddedf",
-                        "name": "Hamood",
-                        "author": "eventooooo"
-                    }
-                ]
-            },
-            "96150961": {
-                "emotes": [
-                    {
-                        "id": "60d9387b5b5d501631fd30ae",
-                        "name": "wiibowling",
-                        "author": "Notoriousbob69"
-                    },
-                    {
-                        "id": "60ae848af39a7552b6e04087",
-                        "name": "4Weird",
-                        "author": "sodagod"
-                    },
-                    {
-                        "id": "60cfa89c7dbacc0b7d5c3c6d",
-                        "name": "lebronJAM",
-                        "author": "hyruverse"
-                    },
-                    {
-                        "id": "60aecb385174a619dbc175be",
-                        "name": "meow",
-                        "author": "alastorv1"
-                    },
-                    {
-                        "id": "6143e6b0962a60904864c730",
-                        "name": "FIUUUM",
-                        "author": "itzAlexPL"
-                    },
-                    {
-                        "id": "6143e822962a60904864c76d",
-                        "name": "weird",
-                        "author": "itzAlexPL"
-                    },
-                    {
-                        "id": "6143e8fb7b14fdf700b9324f",
-                        "name": "tonto",
-                        "author": "itzAlexPL"
-                    },
-                    {
-                        "id": "6143e995962a60904864c78c",
-                        "name": "basta",
-                        "author": "itzAlexPL"
-                    },
-                    {
-                        "id": "60ae7cc47eace53a22ea6241",
-                        "name": "WEEBSDETECTED",
-                        "author": "telvann"
-                    },
-                    {
-                        "id": "60420e5a77137b000de9e676",
-                        "name": "PepeHands",
-                        "author": "Mauriplss"
-                    },
-                    {
-                        "id": "61062b0062ceea408a6819ac",
-                        "name": "MarioFinger",
-                        "author": "DerXiatos"
-                    },
-                    {
-                        "id": "60cf8a834011650f0188d2d8",
-                        "name": "BidenJAM",
-                        "author": "toopsiwaterbottle"
-                    },
-                    {
-                        "id": "60b1705f5827500178a4dc25",
-                        "name": "tucked",
-                        "author": "alastorv1"
-                    }
-                ]
-            },
-            "114937425": {
-                "emotes": []
-            },
-            "158303015": {
-                "emotes": [
-                    {
-                        "id": "613032b29a14cebbb339b56b",
-                        "name": "TurtlePls",
-                        "author": "kawanPls"
-                    }
-                ]
-            },
-            "173445214": {
-                "emotes": [
-                    {
-                        "id": "60b26978919a63205ffd45e0",
-                        "name": "monkaGIGAftRobertDowneyJr",
-                        "author": "LepBTW"
-                    }
-                ]
-            },
-            "262386341": {
-                "emotes": [
-                    {
-                        "id": "6117284025a41a1170572707",
-                        "name": "LoliCopter",
-                        "author": "aicute"
-                    },
-                    {
-                        "id": "60d94f79df4f4c65b8b46d1f",
-                        "name": "CUMMIES",
-                        "author": "KumasoTV"
-                    }
-                ]
-            },
-            "458977577": {
-                "emotes": [
-                    {
-                        "id": "603cb188c20d020014423c2b",
-                        "name": "autismPls",
-                        "author": "Teeemosh"
-                    }
-                ]
-            },
-            "536501101": {
-                "emotes": [
-                    {
-                        "id": "60714545dcae02001b44e527",
-                        "name": "MaN",
-                        "author": "QuinnDT"
-                    },
-                    {
-                        "id": "6117225ed281ac4021e0a662",
-                        "name": "ApuY",
-                        "author": "sodagod"
-                    },
-                    {
-                        "id": "60afa8dea3648f409ae3a385",
-                        "name": "pajaCmon",
-                        "author": "zNIXp"
-                    },
-                    {
-                        "id": "603ca992faf3a00014dff0ac",
-                        "name": "pajaVan",
-                        "author": "Mauriplss"
-                    },
-                    {
-                        "id": "604faf46ab997b000d4dcff9",
-                        "name": "forsenSmoke",
-                        "author": "mamdoh123"
-                    },
-                    {
-                        "id": "60afaa0912f90fadd620c1a7",
-                        "name": "pajaThink",
-                        "author": "zNIXp"
-                    },
-                    {
-                        "id": "60ae7bde39a186645c498c84",
-                        "name": "SupHomie",
-                        "author": "Freddyyyxy"
-                    },
-                    {
-                        "id": "60b4c7522c3334f9ccddd71e",
-                        "name": "ApuThink",
-                        "author": "nvieraponk"
-                    },
-                    {
-                        "id": "60ae3b84aee2aa55381db92b",
-                        "name": "ZULOL",
-                        "author": "heCrzy"
-                    },
-                    {
-                        "id": "603eace1115b55000d7282db",
-                        "name": "Pepega",
-                        "author": "rupusen"
-                    },
-                    {
-                        "id": "614bd01343b2d9da0d32126e",
-                        "name": "papus",
-                        "author": "justmorfer"
-                    }
-                ]
-            }
-        }
+  "data": {
+    "global_emotes": [
+      {
+        "id": "6042089e77137b000de9e669",
+        "name": "OMEGALUL",
+        "author": "Mauriplss"
+      },
+      {
+        "id": "611853a5d281ac4021e0b127",
+        "name": "OMEGADANCE",
+        "author": "arthuurPls"
+      },
+      {
+        "id": "60a62d3aac08622846e7c96f",
+        "name": "YESIDOTHINKSO",
+        "author": "juAnSuckS"
+      },
+      {
+        "id": "60ad8c93c7188f3be2332566",
+        "name": "NOIDONTTHINKSO",
+        "author": "Multex_uwu"
+      },
+      {
+        "id": "60ae46e15d3fdae583a811a0",
+        "name": "KEKWPoint",
+        "author": "victorbaya"
+      },
+      {
+        "id": "60b1868058275001781a8bd5",
+        "name": "THISS",
+        "author": "FabulousPotato69"
+      },
+      {
+        "id": "60ccf4479f5edeff9938fa77",
+        "name": "SUSSY",
+        "author": "supa8"
+      },
+      {
+        "id": "60dea18e6ef5a66f417d1dc2",
+        "name": "PINGED",
+        "author": "feiipito"
+      },
+      {
+        "id": "605305868c870a000de38b6f",
+        "name": "LULE",
+        "author": "noctum2k"
+      },
+      {
+        "id": "609eedc74c18609a1d988700",
+        "name": "Caught4k",
+        "author": "yoim5th"
+      },
+      {
+        "id": "603caa69faf3a00014dff0b1",
+        "name": "Okayeg",
+        "author": "no_title24"
+      },
+      {
+        "id": "608bd89599dcd148faf026cd",
+        "name": "forsenInsane",
+        "author": "tehargi_"
+      },
+      {
+        "id": "60ae2b1faee2aa5538ac7b5f",
+        "name": "cmonbRuh",
+        "author": "sodagod"
+      },
+      {
+        "id": "60b2fd1aab2a2a9c95bd44a8",
+        "name": "YOURM0M",
+        "author": "bh4tti"
+      },
+      {
+        "id": "60aeed3312d7701491049252",
+        "name": "heFuckin",
+        "author": "BENJXXM"
+      },
+      {
+        "id": "60aea366ac03cad607fd97a4",
+        "name": "CLEAN",
+        "author": "evilmessy"
+      },
+      {
+        "id": "60ae56379986a0034908187f",
+        "name": "ICANT",
+        "author": "TheShadows1337"
+      },
+      {
+        "id": "60aeff0411a994a4acdd36b6",
+        "name": "docnotL",
+        "author": "XOOSD"
+      },
+      {
+        "id": "6121829dbc0fb9d60b9c56ca",
+        "name": "APU",
+        "author": "ImSoiL_"
+      },
+      {
+        "id": "60aec1d15174a619db0f01c8",
+        "name": "Tasty",
+        "author": "Neowav"
+      },
+      {
+        "id": "60bbc79a638e26bcc8445418",
+        "name": "fortniteDance",
+        "author": "ledroy"
+      },
+      {
+        "id": "60b14a737a157a7f3360fb32",
+        "name": "Clueless",
+        "author": "100mp"
+      },
+      {
+        "id": "603f56c4115b55000d72830f",
+        "name": "Stoning",
+        "author": "Maspunch"
+      },
+      {
+        "id": "60f958dec07d1ac1935d18d2",
+        "name": "patrickPls",
+        "author": "ShmovTheJedi"
+      },
+      {
+        "id": "60af5a91a564afa26e47a846",
+        "name": "Phone",
+        "author": "Aifanny"
+      },
+      {
+        "id": "615a6080d09acba42f7e7f60",
+        "name": "FireStrut",
+        "author": "itzAlexPL"
+      },
+      {
+        "id": "60b936bc5d373afbd6192438",
+        "name": "stfuBitch",
+        "author": "AM8ROSIO"
+      }
+    ],
+    "channel_emotes": {
+      "7900": {
+        "emotes": [
+          {
+            "id": "60ae4ec30e35477634988c18",
+            "name": "COPIUM",
+            "author": "JustRoganTV"
+          }
+        ]
+      },
+      "59842770": {
+        "emotes": [
+          {
+            "id": "60aed4fe423a803ccae373d3",
+            "name": "PETTHEMODS",
+            "author": "AsianMaNz1"
+          },
+          {
+            "id": "60fbc20c4653f5d6c1afa451",
+            "name": "duckPls",
+            "author": "brian6932"
+          },
+          {
+            "id": "60ae2cfb259ac5a73ed9a00c",
+            "name": "AlienPls3",
+            "author": "heCrzy"
+          },
+          {
+            "id": "60ae56999986a003490a1127",
+            "name": "neonPls",
+            "author": "TheShadows1337"
+          },
+          {
+            "id": "60aeb2958a2d7f04b1f39091",
+            "name": "Nerdge",
+            "author": "onkel_jodok"
+          },
+          {
+            "id": "611c13dc88f0e6c820fb9341",
+            "name": "AD",
+            "author": "ItsGuerrero_"
+          },
+          {
+            "id": "60f958dec07d1ac1935d18d2",
+            "name": "patrickPls",
+            "author": "ShmovTheJedi"
+          },
+          {
+            "id": "60bbc79a638e26bcc8445418",
+            "name": "DreaPls",
+            "author": "ledroy"
+          },
+          {
+            "id": "60ae848af39a7552b6e04087",
+            "name": "4Weird",
+            "author": "sodagod"
+          },
+          {
+            "id": "60aeeb28a564afa26ee7a7f2",
+            "name": "HYPERS",
+            "author": "JustRoganTV"
+          },
+          {
+            "id": "60db86cbeec57bf75e1ba1d4",
+            "name": "gaedo_",
+            "author": "Gaedo_"
+          },
+          {
+            "id": "60e0c850f6ce8aae54ff72c9",
+            "name": "pe7roo",
+            "author": "pe7roo"
+          },
+          {
+            "id": "60aef3aea564afa26e686d8c",
+            "name": "5Head",
+            "author": "JustRoganTV"
+          },
+          {
+            "id": "60ae538d0e35477634dc972d",
+            "name": "TriEasy",
+            "author": "victorbaya"
+          },
+          {
+            "id": "612eedeec97e2b907aaa5409",
+            "name": "android",
+            "author": "MatysitoFlowBakan0"
+          },
+          {
+            "id": "603eb97c115b55000d7282ec",
+            "name": "Floppas",
+            "author": "Maspunch"
+          },
+          {
+            "id": "60db8b91eec57bf75e0c4a05",
+            "name": "raulduri37",
+            "author": "raulduri37"
+          },
+          {
+            "id": "61411c757b14fdf700b8ec59",
+            "name": "victorbaya",
+            "author": "victorbaya"
+          },
+          {
+            "id": "60b03d804d83b66c44e71266",
+            "name": "EVENDANKERTHANWAYTOODANK",
+            "author": "zneix"
+          },
+          {
+            "id": "6130afabea1f0fbaa474a3d5",
+            "name": "lmdshow",
+            "author": "itzAlexPL"
+          },
+          {
+            "id": "60aeb51856f54d7a40ada8f3",
+            "name": "FloppaL",
+            "author": "JustRoganTV"
+          },
+          {
+            "id": "60b3ef57b109253798b0363e",
+            "name": "peepoBOOM",
+            "author": "Viscoito"
+          },
+          {
+            "id": "60d9387b5b5d501631fd30ae",
+            "name": "wiibowling",
+            "author": "Notoriousbob69"
+          },
+          {
+            "id": "60ae35b9259ac5a73e21ff6b",
+            "name": "AlienPls0",
+            "author": "heCrzy"
+          },
+          {
+            "id": "60c7a469bfc4a1dd771e86d6",
+            "name": "Idiot",
+            "author": "beent0jailmate"
+          },
+          {
+            "id": "60ad3e0906222d3c18ff9a32",
+            "name": "VeryDonk",
+            "author": "Olajvr"
+          },
+          {
+            "id": "60c162b624613aa21852f2ff",
+            "name": "Tenis",
+            "author": "Sulkiest"
+          },
+          {
+            "id": "60b24083b4c9c09d2874182a",
+            "name": "dogBlast",
+            "author": "Krodogs"
+          },
+          {
+            "id": "61062b0062ceea408a6819ac",
+            "name": "MarioFinger",
+            "author": "DerXiatos"
+          },
+          {
+            "id": "60af9e80566c3e1fc9f4a0a1",
+            "name": "peepoComfy",
+            "author": "maximus6216"
+          },
+          {
+            "id": "61171aa1d3fbf90af7621079",
+            "name": "!cookie",
+            "author": "8Supa"
+          },
+          {
+            "id": "60ae2ff2aee2aa5538c73c05",
+            "name": "HomerGrind",
+            "author": "blastyyy"
+          },
+          {
+            "id": "60b3ba8420827eda3392efb5",
+            "name": "vinceMoney",
+            "author": "Zed0rf"
+          },
+          {
+            "id": "612a7d4e21ca87d781a04f8d",
+            "name": "YOUTUBE",
+            "author": "snortexx"
+          }
+        ]
+      },
+      "66534503": {
+        "emotes": [
+          {
+            "id": "60f958dec07d1ac1935d18d2",
+            "name": "patrickPls",
+            "author": "ShmovTheJedi"
+          },
+          {
+            "id": "60d9387b5b5d501631fd30ae",
+            "name": "wiibowling",
+            "author": "Notoriousbob69"
+          },
+          {
+            "id": "60edf0c5a60faa2a9133ebd8",
+            "name": "illojuanExplainingHow",
+            "author": "AdriM16"
+          }
+        ]
+      },
+      "68125102": {
+        "emotes": [
+          {
+            "id": "6042af401d4963000d9dae36",
+            "name": "docPls",
+            "author": "JirabruaR"
+          },
+          {
+            "id": "60aeeb53a564afa26ee82323",
+            "name": "monkaSTEER",
+            "author": "JustRoganTV"
+          },
+          {
+            "id": "60ba5e80671673093a6274e1",
+            "name": "BBoomer",
+            "author": "fk_mahyar_best"
+          },
+          {
+            "id": "6041e1b789b604000d19fbbb",
+            "name": "DonkChat",
+            "author": "msun_"
+          },
+          {
+            "id": "60c7a469bfc4a1dd771e86d6",
+            "name": "Idiot",
+            "author": "beent0jailmate"
+          },
+          {
+            "id": "60ae92d4f39a7552b69c32bc",
+            "name": "pokiShuffle",
+            "author": "Yujin_Saros"
+          },
+          {
+            "id": "6042255077137b000de9e68a",
+            "name": "JesusBaller",
+            "author": "Lopinios1"
+          },
+          {
+            "id": "60ae8832f39a7552b6121962",
+            "name": "ABDULwelcome",
+            "author": "benASTRO"
+          },
+          {
+            "id": "60ae247d259ac5a73eb6bf9c",
+            "name": "ForsenImpersonatingYourMum",
+            "author": "sodagod"
+          },
+          {
+            "id": "60b1705f5827500178a4dc25",
+            "name": "tucked",
+            "author": "alastorv1"
+          }
+        ]
+      },
+      "90075649": {
+        "emotes": [
+          {
+            "id": "6130afabea1f0fbaa474a3d5",
+            "name": "lmdshou",
+            "author": "itzAlexPL"
+          },
+          {
+            "id": "6134d899434bb87c45d919b1",
+            "name": "wuan",
+            "author": "itzAlexPL"
+          },
+          {
+            "id": "61361134baf761f5d4fd7345",
+            "name": "MasiPag",
+            "author": "AMBROSIO69"
+          },
+          {
+            "id": "60f7372bf7fdd1860a7dcbb2",
+            "name": "Alarma",
+            "author": "NachoSlv"
+          },
+          {
+            "id": "609eec98b55466cf074f729b",
+            "name": "lol",
+            "author": "Ttootts"
+          },
+          {
+            "id": "60ca44093591d98c40a1b6e2",
+            "name": "TUMADRE",
+            "author": "부룸"
+          },
+          {
+            "id": "60e0f94ea940e0942813a339",
+            "name": "SOLOVEOTEXTO",
+            "author": "vicesmile_"
+          },
+          {
+            "id": "60b0074a74d234a9691e0aa1",
+            "name": "who",
+            "author": "AM8ROSIO"
+          },
+          {
+            "id": "60afd309a3648f409af36618",
+            "name": "maraca",
+            "author": "victorbaya"
+          },
+          {
+            "id": "60afa44f99923bbe7f534b0e",
+            "name": "xD",
+            "author": "AS43_"
+          },
+          {
+            "id": "60c162b624613aa21852f2ff",
+            "name": "Tenis",
+            "author": "Sulkiest"
+          },
+          {
+            "id": "614bc75420eaf897465a0675",
+            "name": "0k",
+            "author": "xoosd"
+          },
+          {
+            "id": "60b936bc5d373afbd6192438",
+            "name": "calla",
+            "author": "AM8ROSIO"
+          },
+          {
+            "id": "61086569adcc3d4386150eb2",
+            "name": "melona",
+            "author": "AM8ROSIO"
+          }
+        ]
+      },
+      "96135725": {
+        "emotes": [
+          {
+            "id": "60fbaf455b7deb3de0b3711e",
+            "name": "nooasdfghjk",
+            "author": "neidalcoffex"
+          },
+          {
+            "id": "611f15dfe6802157ec5ddedf",
+            "name": "Hamood",
+            "author": "eventooooo"
+          }
+        ]
+      },
+      "96150961": {
+        "emotes": [
+          {
+            "id": "60d9387b5b5d501631fd30ae",
+            "name": "wiibowling",
+            "author": "Notoriousbob69"
+          },
+          {
+            "id": "60ae848af39a7552b6e04087",
+            "name": "4Weird",
+            "author": "sodagod"
+          },
+          {
+            "id": "60cfa89c7dbacc0b7d5c3c6d",
+            "name": "lebronJAM",
+            "author": "hyruverse"
+          },
+          {
+            "id": "60aecb385174a619dbc175be",
+            "name": "meow",
+            "author": "alastorv1"
+          },
+          {
+            "id": "6143e6b0962a60904864c730",
+            "name": "FIUUUM",
+            "author": "itzAlexPL"
+          },
+          {
+            "id": "6143e822962a60904864c76d",
+            "name": "weird",
+            "author": "itzAlexPL"
+          },
+          {
+            "id": "6143e8fb7b14fdf700b9324f",
+            "name": "tonto",
+            "author": "itzAlexPL"
+          },
+          {
+            "id": "6143e995962a60904864c78c",
+            "name": "basta",
+            "author": "itzAlexPL"
+          },
+          {
+            "id": "60ae7cc47eace53a22ea6241",
+            "name": "WEEBSDETECTED",
+            "author": "telvann"
+          },
+          {
+            "id": "60420e5a77137b000de9e676",
+            "name": "PepeHands",
+            "author": "Mauriplss"
+          },
+          {
+            "id": "61062b0062ceea408a6819ac",
+            "name": "MarioFinger",
+            "author": "DerXiatos"
+          },
+          {
+            "id": "60cf8a834011650f0188d2d8",
+            "name": "BidenJAM",
+            "author": "toopsiwaterbottle"
+          },
+          {
+            "id": "60b1705f5827500178a4dc25",
+            "name": "tucked",
+            "author": "alastorv1"
+          }
+        ]
+      },
+      "114937425": {
+        "emotes": []
+      },
+      "158303015": {
+        "emotes": [
+          {
+            "id": "613032b29a14cebbb339b56b",
+            "name": "TurtlePls",
+            "author": "kawanPls"
+          }
+        ]
+      },
+      "173445214": {
+        "emotes": [
+          {
+            "id": "60b26978919a63205ffd45e0",
+            "name": "monkaGIGAftRobertDowneyJr",
+            "author": "LepBTW"
+          }
+        ]
+      },
+      "262386341": {
+        "emotes": [
+          {
+            "id": "6117284025a41a1170572707",
+            "name": "LoliCopter",
+            "author": "aicute"
+          },
+          {
+            "id": "60d94f79df4f4c65b8b46d1f",
+            "name": "CUMMIES",
+            "author": "KumasoTV"
+          }
+        ]
+      },
+      "458977577": {
+        "emotes": [
+          {
+            "id": "603cb188c20d020014423c2b",
+            "name": "autismPls",
+            "author": "Teeemosh"
+          }
+        ]
+      },
+      "536501101": {
+        "emotes": [
+          {
+            "id": "60714545dcae02001b44e527",
+            "name": "MaN",
+            "author": "QuinnDT"
+          },
+          {
+            "id": "6117225ed281ac4021e0a662",
+            "name": "ApuY",
+            "author": "sodagod"
+          },
+          {
+            "id": "60afa8dea3648f409ae3a385",
+            "name": "pajaCmon",
+            "author": "zNIXp"
+          },
+          {
+            "id": "603ca992faf3a00014dff0ac",
+            "name": "pajaVan",
+            "author": "Mauriplss"
+          },
+          {
+            "id": "604faf46ab997b000d4dcff9",
+            "name": "forsenSmoke",
+            "author": "mamdoh123"
+          },
+          {
+            "id": "60afaa0912f90fadd620c1a7",
+            "name": "pajaThink",
+            "author": "zNIXp"
+          },
+          {
+            "id": "60ae7bde39a186645c498c84",
+            "name": "SupHomie",
+            "author": "Freddyyyxy"
+          },
+          {
+            "id": "60b4c7522c3334f9ccddd71e",
+            "name": "ApuThink",
+            "author": "nvieraponk"
+          },
+          {
+            "id": "60ae3b84aee2aa55381db92b",
+            "name": "ZULOL",
+            "author": "heCrzy"
+          },
+          {
+            "id": "603eace1115b55000d7282db",
+            "name": "Pepega",
+            "author": "rupusen"
+          },
+          {
+            "id": "614bd01343b2d9da0d32126e",
+            "name": "papus",
+            "author": "justmorfer"
+          }
+        ]
+      }
     }
+  }
 }
