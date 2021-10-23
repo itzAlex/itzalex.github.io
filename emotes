@@ -590,6 +590,15 @@
                     }
                 ]
             },
+            "76055616": {
+            	"emotes": [
+	            	{
+	            		"id": "trolling",
+	            		"name": "joy",
+	            		"author": "itzAlexPL"
+	            	}
+            	]
+            },
             "536501101": {
                 "emotes": [
                     {
