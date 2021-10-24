@@ -318,6 +318,11 @@
             "id": "612a7d4e21ca87d781a04f8d",
             "name": "YOUTUBE",
             "author": "snortexx"
+          },
+          {
+            "id": "60b88f27d115b053111c7c25",
+            "name": "CuteDog",
+            "author": "Corolado"
           }
         ]
       },
@@ -548,11 +553,6 @@
             "id": "60b1705f5827500178a4dc25",
             "name": "tucked",
             "author": "alastorv1"
-          },
-          {
-            "id": "6157262d93686fbfe7fbc97e",
-            "name": "peepoCatalunya",
-            "author": "victorbaya"
           }
         ]
       },
