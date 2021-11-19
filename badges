@@ -1,6 +1,7 @@
 {
    "badges":[
       {
+         "id": "1",
          "tooltip":"Chatterino Homies Developer",
          "image1":"https://itzalex.github.io/badgesusers/dev/badge.png",
          "users":[
@@ -11,6 +12,7 @@
          "image3":"https://itzalex.github.io/badgesusers/dev/badge3x.png"
       },
       {
+         "id": "2",
          "tooltip":"Chatterino Homies Supporter (Founder)",
          "image1":"https://itzalex.github.io/badgesusers/supporter_founder2/badge.png",
          "users":[
@@ -68,6 +70,7 @@
          "image3":"https://itzalex.github.io/badgesusers/supporter_founder2/badge3x.png"
       },
       {
+         "id": "3",
          "tooltip":"Chatterino Homies Supporter",
          "image1":"https://itzalex.github.io/badgesusers/supporter2/badge.png",
          "users":[
@@ -126,6 +129,7 @@
          "image3":"https://itzalex.github.io/badgesusers/supporter2/badge3x.png"
       },
       {
+         "id": "4",
          "tooltip":"Chatterino Homies Founder",
          "image1":"https://itzalex.github.io/badgesusers/founder2/badge.png",
          "users":[
