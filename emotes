@@ -2,16 +2,6 @@
     "data": {
         "global_emotes": [
             {
-                "id": "60a62d3aac08622846e7c96f",
-                "name": "YESIDOTHINKSO",
-                "author": "juAnSuckS"
-            },
-            {
-                "id": "60ad8c93c7188f3be2332566",
-                "name": "NOIDONTTHINKSO",
-                "author": "Multex_uwu"
-            },
-            {
                 "id": "60ae46e15d3fdae583a811a0",
                 "name": "KEKWPoint",
                 "author": "victorbaya"
@@ -25,11 +15,6 @@
                 "id": "60dea18e6ef5a66f417d1dc2",
                 "name": "PINGED",
                 "author": "feiipito"
-            },
-            {
-                "id": "605305868c870a000de38b6f",
-                "name": "LULE",
-                "author": "noctum2k"
             },
             {
                 "id": "609eedc74c18609a1d988700",
@@ -135,6 +120,21 @@
                 "id": "619ae4c970bd9959879597fc",
                 "name": "SUSSY",
                 "author": "DarthShmov"
+            },
+            {
+                "id": "618c330db1eb03daac7d2e39",
+                "name": "LULE",
+                "author": "Enzo_SuperCraftZ"
+            },
+            {
+                "id": "61938792b1eb03daac7dfdd3",
+                "name": "NOIDONTTHINKSO",
+                "author": "SebasLoco"
+            },
+            {
+                "id": "61a2c982e9684edbbc37297d",
+                "name": "YESIDOTHINKSO",
+                "author": "SebasLoco"
             }
         ],
         "channel_emotes": {
