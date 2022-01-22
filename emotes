@@ -1022,6 +1022,40 @@
                         "author": "JustRoganTV"
                     }
                 ]
+            },
+            "443917806": {
+                "emotes": [
+                    {
+                        "id": "60ae7b00c4b981d367cd0123",
+                        "name": "ApuBand",
+                        "author": "sodagod"
+                    },
+                    {
+                        "id": "60bf8017f2e69d99a746417a",
+                        "name": "uwu",
+                        "author": "imSPIEG0"
+                    },
+                    {
+                        "id": "609ef45c4c18609a1d9a6cbe",
+                        "name": "ppParty",
+                        "author": "yoim5th"
+                    },
+                    {
+                        "id": "60aeb2da5174a619db6cd0e7",
+                        "name": "Gladge",
+                        "author": "onkel_jodok"
+                    },
+                    {
+                        "id": "6108649c9dc18aaf9f0e4e49",
+                        "name": "MECAGOENTODO",
+                        "author": "FapParaMoarr"
+                    },
+                    {
+                        "id": "61b0199fe9684edbbc3992e6",
+                        "name": "qpex",
+                        "author": "Poncini_"
+                    }
+                ]
             }
         }
     }
