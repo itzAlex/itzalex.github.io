@@ -40,6 +40,15 @@
          ],
          "image2":"https://itzalex.github.io/badgesusers/mod2/badge2x.png",
          "image3":"https://itzalex.github.io/badgesusers/mod2/badge3x.png"
+      },
+      {
+         "tooltip":"Bot",
+         "image1":"https://itzalex.github.io/badgesusers/bot/badge.png",
+         "users":[
+            "765806948"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/bot/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/bot/badge3x.png"
       }
    ]
 }
