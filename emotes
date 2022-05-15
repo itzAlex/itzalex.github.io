@@ -82,11 +82,6 @@
                 "author": "itzAlexPL"
             },
             {
-                "id": "60b936bc5d373afbd6192438",
-                "name": "stfuBitch",
-                "author": "AM8ROSIO"
-            },
-            {
                 "id": "60b14a737a157a7f3360fb32",
                 "name": "Clueless",
                 "author": "100mp"
@@ -791,7 +786,11 @@
                         "id": "60a3631f89b7aa16a575988d",
                         "name": "forsSmash",
                         "author": "pastikovychleba"
-                    }
+                    },
+                        "id": "empty",
+                        "name": "ICANT",
+                        "author": "empty"
+                    }    
                 ]
             },
             "96135725": {
