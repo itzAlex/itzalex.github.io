@@ -787,10 +787,11 @@
                         "name": "forsSmash",
                         "author": "pastikovychleba"
                     },
+                    {
                         "id": "empty",
                         "name": "ICANT",
                         "author": "empty"
-                    }    
+                    }
                 ]
             },
             "96135725": {
