@@ -7,11 +7,6 @@
                 "author": "victorbaya"
             },
             {
-                "id": "60b1868058275001781a8bd5",
-                "name": "THISS",
-                "author": "FabulousPotato69"
-            },
-            {
                 "id": "60dea18e6ef5a66f417d1dc2",
                 "name": "PINGED",
                 "author": "feiipito"
@@ -32,11 +27,6 @@
                 "author": "sodagod"
             },
             {
-                "id": "60b2fd1aab2a2a9c95bd44a8",
-                "name": "YOURM0M",
-                "author": "bh4tti"
-            },
-            {
                 "id": "60aeed3312d7701491049252",
                 "name": "heFuckin",
                 "author": "BENJXXM"
@@ -45,11 +35,6 @@
                 "id": "60aea366ac03cad607fd97a4",
                 "name": "CLEAN",
                 "author": "evilmessy"
-            },
-            {
-                "id": "60ae56379986a0034908187f",
-                "name": "ICANT",
-                "author": "TheShadows1337"
             },
             {
                 "id": "60aeff0411a994a4acdd36b6",
@@ -130,6 +115,16 @@
                 "id": "60a62d3aac08622846e7c96f",
                 "name": "YESIDOTHINKSO",
                 "author": "juAnSuckS"
+            },
+            {
+                "id": "61d88e5f57c70f633ebcba78",
+                "name": "bunnyVibe",
+                "author": "itzKcpr"
+            },
+            {
+                "id": "6266d32530c35f39c8f85bcf",
+                "name": "Hedgehog",
+                "author": "poezdezz"
             }
         ],
         "channel_emotes": {
@@ -733,16 +728,6 @@
                         "author": "AM8ROSIO"
                     },
                     {
-                        "id": "60e539774434fb19024fc317",
-                        "name": "docLeave",
-                        "author": "Khanites"
-                    },
-                    {
-                        "id": "60e539bb8406562afe0b248d",
-                        "name": "docArrive",
-                        "author": "Khanites"
-                    },
-                    {
                         "id": "60aea573229664e866a162c9",
                         "name": "KEK",
                         "author": "unclebeanbag"
@@ -763,11 +748,6 @@
                         "author": "moecoquito"
                     },
                     {
-                        "id": "6205751db015a89311a7a8fc",
-                        "name": "WHYY",
-                        "author": "itzAlexPL"
-                    },
-                    {
                         "id": "60aebcf4e04200b3d14ca8cf",
                         "name": "GotEEM",
                         "author": "Macawls"
@@ -786,11 +766,6 @@
                         "id": "60a3631f89b7aa16a575988d",
                         "name": "forsSmash",
                         "author": "pastikovychleba"
-                    },
-                    {
-                        "id": "empty",
-                        "name": "ICANT",
-                        "author": "empty"
                     }
                 ]
             },
