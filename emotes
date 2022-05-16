@@ -120,6 +120,11 @@
                 "id": "61d88e5f57c70f633ebcba78",
                 "name": "bunnyVibe",
                 "author": "itzKcpr"
+            },
+            {
+                "id": "60ae56379986a0034908187f",
+                "name": "ICANT",
+                "author": "TheShadows1337"
             }
         ],
         "channel_emotes": {
@@ -761,6 +766,11 @@
                         "id": "60a3631f89b7aa16a575988d",
                         "name": "forsSmash",
                         "author": "pastikovychleba"
+                    },
+                    {
+                        "id": "empty",
+                        "name": "ICANT",
+                        "author": "empty"
                     }
                 ]
             },
