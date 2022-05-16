@@ -1127,6 +1127,15 @@
                     }
                 ]
             },
+            "74547642" : {
+                "emotes": [
+                    {
+                        "id": "empty",
+                        "name": "ICANT",
+                        "author": "empty"
+                    }
+                ]
+            },
             "460424307": {
                 "emotes": [
                     {
