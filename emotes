@@ -771,6 +771,11 @@
                         "id": "empty",
                         "name": "ICANT",
                         "author": "empty"
+                    },
+                    {
+                        "id": "62841052ab08473149ebcf7a",
+                        "name": "OMEGADANCE",
+                        "author": "XoaNNNN_"
                     }
                 ]
             },
@@ -1127,7 +1132,7 @@
                     }
                 ]
             },
-            "74547642" : {
+            "74547642": {
                 "emotes": [
                     {
                         "id": "empty",
