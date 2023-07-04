@@ -31,7 +31,6 @@
          "tooltip":"Homies Mod",
          "image1":"https://itzalex.github.io/badgesusers/mod2/badge.png",
          "users":[
-            "158303015",
             "96150961",
             "114937425",
             "139147886",
@@ -43,6 +42,15 @@
          ],
          "image2":"https://itzalex.github.io/badgesusers/mod2/badge2x.png",
          "image3":"https://itzalex.github.io/badgesusers/mod2/badge3x.png"
+      },
+      {
+         "tooltip":"Senior Homies Mod",
+         "image1":"https://itzalex.github.io/badgesusers/senior_mod/badge.png",
+         "users":[
+            "158303015"
+         ],
+         "image2":"https://itzalex.github.io/badgesusers/senior_mod/badge2x.png",
+         "image3":"https://itzalex.github.io/badgesusers/senior_mod/badge3x.png"
       },
       {
          "tooltip":"Bot",
